@@ -8,9 +8,12 @@ The original pngdefry created png's at about 50% of the uncompressed image size.
 
 ### Installation
 To compile it, run 
+
 	make
+
 from the command line
 
 If you want to install it to /usr/local run
+
 	make install
 
